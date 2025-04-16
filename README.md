@@ -1,3 +1,6 @@
+Here's a clean installation log following your requested style for Arch Linux + i3:
+
+```
 # 1. Check internet
 ping archlinux.org
 # PING archlinux.org (95.217.163.246) 56(84) bytes of data.
@@ -100,3 +103,4 @@ exit
 umount -R /mnt
 reboot
 # System rebooting...
+```
