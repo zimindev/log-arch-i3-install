@@ -1,4 +1,4 @@
-Here's a clean installation log following your requested style for Arch Linux + i3:
+installation log for Arch Linux + i3:
 
 ```
 # 1. Check internet
